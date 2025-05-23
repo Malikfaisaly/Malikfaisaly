@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Blockchain Developer | 🧠 AI Explorer | 🌌 Building the Future</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;AI+Agent+Builder;MERN+Stack+Expert;Rust+Web3+Engineer;Mars+Tech+Inventor&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;AI+Agent+Builder;MERN+Stack+Expert;Rust+Web3+Engineer&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
