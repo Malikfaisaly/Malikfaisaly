@@ -10,10 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🧠 Building intelligent agents with real-time automation & cybersecurity
-- 🚀 Developing tech for **hypersonic jets** and **Mars-grade tools**
 - 💼 Passionate about **Blockchain, AI, Rust, MERN Stack, and Prompt Engineering**
 - 🌐 Currently working on futuristic innovations & defense tech
-- 📬 Reach me at: **malikfaisal.dev@proton.me**
+- 📬 Reach me at: **malikfaisal.developer@gmail.com**
 
 ---
 
@@ -41,19 +40,15 @@
 
 ### 💼 Projects I'm Proud Of
 
-- ⚔️ **AI CyberDefense Agent** – Human behavior + voice command defense bot
-- ✈️ **Hypersonic Targeting UI** – AI-assisted target lock + threat detection
-- 🌍 **Mars Innovation Toolkit** – Extreme condition automation systems
-- 📈 **Takashi Kotegawa Strategy** – Custom crypto trading indicator for TradingView
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/malikfaisal_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/malikfaisal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/malikfaisal" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://twitter.com/malikfaisaly" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/malikfaisaly" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/malikfaisaly" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
