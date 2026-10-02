@@ -48,18 +48,6 @@
   <img src="https://streak-stats.demolab.com/?user=malikfaisaly&theme=radical" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikfaisaly&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=malikfaisaly&theme=radical&margin-w=10&margin-h=10"/>
-</p>
-
 ---
 
 ### 🌐 Connect With Me
